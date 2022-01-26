@@ -12,7 +12,7 @@ class My_App extends StatelessWidget {
     return MaterialApp(
       title: 'khdma App',
       theme: ThemeData(
-        primarySwatch: Colors.green,
+        primarySwatch: Colors.blue,
 
       ),
       home:login(),
